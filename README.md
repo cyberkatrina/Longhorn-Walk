@@ -35,5 +35,5 @@ Minor Elements:
    * User Defaults 
 
 
-Katrina worked on: Login/Register Path (Firebase), Homescreen (check date), Logout Function, User() Class & Firebase Firestore, User Profile VC, Edit User Profile VC, Delete Profile Function, Profile Picture Upload/Download (Firebase Storage/Firestore), Alerts.
+Katrina completed: Login/Register Path (Firebase), Homescreen (check date), Logout Function, User() Class & Firebase Firestore, User Profile VC, Edit User Profile VC, Delete Profile Function, Profile Picture Upload/Download (Firebase Storage/Firestore), Alerts.
 
