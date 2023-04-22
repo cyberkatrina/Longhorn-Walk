@@ -1,8 +1,6 @@
 # Longhorn-Walk
 iOS application programmed in Swift that helps incoming university students get familiar with the campus by using our app to score points when they visit pre-defined locations (inspired by Pokemon Go)
 
-To run the app, download Longhorn_Walk.zip and open the Xcode project.
-
 <img width="321" alt="Screenshot 2023-04-22 at 1 15 07 AM" src="https://user-images.githubusercontent.com/113384816/233766320-7107f63e-c4dd-4e81-a569-a04f2ffeedb4.png">
 
 Team members: Katrina Aliashkevich, Matthew Galvez, Rayna Sevilla, Yousuf Din
