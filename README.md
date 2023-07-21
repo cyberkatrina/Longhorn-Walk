@@ -2,10 +2,10 @@
 iOS application programmed in Swift that helps incoming university students get familiar with the campus by using our app to score points when they visit pre-defined locations (inspired by Pokemon Go)
 
 <img width="321" alt="Screenshot 2023-04-22 at 1 15 07 AM" src="https://user-images.githubusercontent.com/113384816/233766320-7107f63e-c4dd-4e81-a569-a04f2ffeedb4.png">
-<img width="321" alt="Screenshot 2023-07-20 at 10 45 27 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/65b0a002-4226-46af-a8e8-6be866416ed6.png">
-<img width="321" alt="Screenshot 2023-07-20 at 10 44 27 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/a03d22ca-aca6-4a71-beb7-14d27c5282a1.png">
-<img width="321" alt="Screenshot 2023-07-20 at 10 43 24 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/37bc4166-e56a-4ae1-a8ea-7f7cfdb4cfc1.png">
-<img width="321" alt="Screenshot 2023-07-20 at 10 10 11 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/02e8914f-144f-414e-ae4d-4d870ed71c99.png">
+<img width="327" alt="Screenshot 2023-07-20 at 10 45 27 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/e8c0f9be-200f-4e91-aadc-dd1d5cc3eace">
+<img width="327" alt="Screenshot 2023-07-20 at 10 44 27 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/951fe518-1c08-4649-a9aa-b66fdd189bd4">
+<img width="327" alt="Screenshot 2023-07-20 at 10 43 24 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/1489f47c-81f6-48de-8ce6-b3fcbbfe250f">
+<img width="327" alt="Screenshot 2023-07-20 at 10 10 11 AM" src="https://github.com/cyberkatrina/Longhorn-Walk/assets/113384816/be6ea737-7731-41c2-9dbe-dabff1c82086">
 
 
 Team members: Katrina Aliashkevich, Matthew Galvez, Rayna Sevilla, Yousuf Din
